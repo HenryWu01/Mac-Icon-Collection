@@ -5,6 +5,12 @@
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/bbf49d29e87bc3afdb5c7e437eebd1ec_2rYA4yoJP7.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/d8cea2b3abba148b3bae4bfe72208bd3_2rYA4yoJP7.icns)
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/f78e69f7ee8164fb6ee36030ef0ff015_8rhsAnFiLH.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/892b457b5789bca520c61c9347a06711_8rhsAnFiLH.icns)
 
+# AltTab
+[<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/dc902012e777c6a2f8702de69f107cce_low_res_AltTab.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/edfed743b5b0dc357c7cfaf5798a9a4c_AltTab.icns)
+
+## Android Studio
+[<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/ea1ad0457b40784991b5f5fa890df363_69yiqpSEAW.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/611cfb61fa2815454dfdaa6ee7051d81_69yiqpSEAW.icns)
+
 ## ClashX
 [<img style="width:100px;height:100px;" src="https://media.macosicons.com/parse/files/macOSicons/b8b9ad3b67e8c9e176bd801a664aa186_clashX.png" />](https://media.macosicons.com/parse/files/macOSicons/1a97b9278d5a7dae58142b8ff9910140_clashX.icns)
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/03b987171cdbf2ff80821a82556fb7fe_low_res_ClashX.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/badcd6174d4edb1e07cc70a69ace0679_ClashX.icns)
@@ -16,9 +22,15 @@
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/ef0d3bb2a7ba6b914390e44a2f97ddd4_5psGbYO24h.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/a6595fba2b235aab4a299cf25323b2cb_5psGbYO24h.icns)
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/674313205bf9fbe76739984aea8bf07f_ZIL5a5mZpt.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/9be4b52067cbe9b8f2fdcba8bfea5ff6_ZIL5a5mZpt.icns)
 
+## Insomnia
+[<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/67b8c0081d03d40e6cd1c8bd03ae9eb2_L1N2cOlNl3.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/0834d3730d98102db9968da8e2f602ee_L1N2cOlNl3.icns)
+
 ## JetBrains
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/d7a88ef7fff2a5a8ec5f9d7789bd9a4e_t5TCjMJZzS.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/e44d3c234b14752f06968888dcfec88a_t5TCjMJZzS.icns)
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/86646a5ed8f800af8438765b770a9b79_nNAdN7q7Cs.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/66302eaf64ba2a697fd3c8b7cb6f2ce2_nNAdN7q7Cs.icns)
+
+## Mos
+[<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/320ffd3680e98ae9962674e983bd0230_BNCHpVN43H.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/7e1cc983257ff890c8288d3a4b53e32e_BNCHpVN43H.icns)
 
 ## Visual Studio Code
 [<img style="width:100px;height:100px;" src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/127afd010e2117574fdf2e7be9a23224_kg2dJzZjx7.png" />](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/bae82c9629e1cb3a24e38365bb5fc161_kg2dJzZjx7.icns)
